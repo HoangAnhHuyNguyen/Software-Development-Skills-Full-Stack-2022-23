@@ -1,5 +1,6 @@
 # Software-Development-Skills-Full-Stack-2022-23
 # Application Form 
+(add, edit, remove)
 using MEAN (MongoDB, Express.js, Angular, Node.js)
 
 -Install:
